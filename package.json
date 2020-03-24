@@ -1,0 +1,20 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "description": "Project Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer3027/manager.git"
+  },
+  "author": "mason-roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developer3027/manager/issues"
+  },
+  "homepage": "https://github.com/Developer3027/manager#readme",
+  "dependencies": {}
+}
